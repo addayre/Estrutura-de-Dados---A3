@@ -42,5 +42,10 @@ Números na fila em ordem depois de todas as inserões:
 5 4 3 2 1 10 9 8 7 6 
 ```
 
+**REFERENCIAS/FONTES:**
 
+[Como criar métodos GET e SET](https://www.devmedia.com.br/criando-metodos-get-e-set-em-java/24623#:~:text=Os%20m%C3%A9todos%20GET%20e%20SET,usado%20para%20acesso%20ao%20atributo.)
 
+[Trabalhando com filas em Java](https://www.dio.me/articles/trabalhando-com-filas-em-java)
+
+[Aula 20 - Pilha - Estruturas de Dados com Java](https://www.youtube.com/watch?v=9Brb1ef1_N4)
