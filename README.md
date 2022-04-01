@@ -38,7 +38,7 @@ Números na pilha:
 10 9 8 7 6 
 
 O tamanho final da minha fila será de: 10
-Números na fila em ordem depois de todas as inserões: 
+Números na fila em ordem depois de todas as inserções: 
 5 4 3 2 1 10 9 8 7 6 
 ```
 
